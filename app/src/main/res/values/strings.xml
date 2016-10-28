@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PowerOff</string>
+    <string name="err_need_root">Need Root Permission</string>
+</resources>

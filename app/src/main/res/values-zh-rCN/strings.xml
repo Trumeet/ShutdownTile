@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">关机</string>
+    <string name="err_need_root">需要Root权限</string>
+</resources>
